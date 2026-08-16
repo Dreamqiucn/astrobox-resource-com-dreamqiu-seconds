@@ -32,12 +32,12 @@
     {
       "title": "教程",
       "url": "https://www.bilibili.com/opus/1235544512057573379",
-      "icon": ""
+      "icon": "BookOpen"
     },
     {
       "title": "同步器下载",
-      "url": "https://shop.dreamqiu.cn/60秒避难所同步器.apk",
-      "icon": ""
+      "url": "https://shop.dreamqiu.cn/60.apk",
+      "icon": "AndroidLogo"
     }
   ],
   "downloads": {
@@ -68,6 +68,10 @@
     "xmb9p": {
       "version": "1.0",
       "file_name": "downloads/pro_com.Dreamqiu.seconds.release.1.0.0.rpk"
+    },
+    "xmb9": {
+      "version": "1.0.1",
+      "file_name": "downloads/com.Dreamqiu.seconds.release.1.0.1.rpk"
     }
   },
   "ext": {}
