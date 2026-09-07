@@ -42,36 +42,48 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.4",
-      "file_name": "downloads/rw_com.Dreamqiu.seconds.release.1.4.rpk"
+      "version": "1.5",
+      "file_name": "downloads/rw_com.Dreamqiu.seconds.release.1.5.rpk"
     },
     "xmrw5xring": {
-      "version": "1.4",
-      "file_name": "downloads/rw_com.Dreamqiu.seconds.release.1.4.rpk"
+      "version": "1.5",
+      "file_name": "downloads/rw_com.Dreamqiu.seconds.release.1.5.rpk"
     },
     "xmrw6": {
-      "version": "1.4",
-      "file_name": "downloads/rw_com.Dreamqiu.seconds.release.1.4.rpk"
+      "version": "1.5",
+      "file_name": "downloads/rw_com.Dreamqiu.seconds.release.1.5.rpk"
     },
     "xmb10": {
-      "version": "1.4",
-      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.4.rpk"
+      "version": "1.5",
+      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.5.rpk"
     },
     "xmb10nfc": {
-      "version": "1.4",
-      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.4.rpk"
+      "version": "1.5",
+      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.5.rpk"
     },
     "xmb10p": {
-      "version": "1.4",
-      "file_name": "downloads/pro_com.Dreamqiu.seconds.release.1.4.rpk"
+      "version": "1.5",
+      "file_name": "downloads/pro_com.Dreamqiu.seconds.release.1.5.rpk"
     },
     "xmb9p": {
-      "version": "1.4",
-      "file_name": "downloads/pro_com.Dreamqiu.seconds.release.1.4.rpk"
+      "version": "1.5",
+      "file_name": "downloads/pro_com.Dreamqiu.seconds.release.1.5.rpk"
     },
     "xmb9": {
-      "version": "1.4",
-      "file_name": "downloads/9_com.Dreamqiu.seconds.release.1.4.rpk"
+      "version": "1.5",
+      "file_name": "downloads/9_com.Dreamqiu.seconds.release.1.5.rpk"
+    },
+    "xmb11": {
+      "version": "1.5",
+      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.5.rpk"
+    },
+    "xmb11nfc": {
+      "version": "1.5",
+      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.5.rpk"
+    },
+    "vivowgt2": {
+      "version": "1.3.0",
+      "file_name": "downloads/com.Dreamqiu.seconds.release.production.1.3.0.rpk"
     }
   },
   "ext": {}
