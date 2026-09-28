@@ -32,58 +32,129 @@
     {
       "title": "教程",
       "url": "https://www.bilibili.com/opus/1235544512057573379",
-      "icon": "BookOpen"
+      "icon": "book-open"
     },
     {
       "title": "同步器下载",
       "url": "https://shop.dreamqiu.cn/",
-      "icon": "AndroidLogo"
+      "icon": "android-logo"
     }
   ],
   "downloads": {
     "xmrw5": {
       "version": "1.6",
-      "file_name": "downloads/rw_com.Dreamqiu.seconds.release.1.6.rpk"
+      "file_name": "downloads/rw_com.Dreamqiu.seconds.release.1.6-xmrw5.rpk",
+      "versionCode": 160,
+      "updatelogs": [
+        {
+          "version": "1.6",
+          "content": "1.6 新增食疗机制:连续给生病成员喂汤，有机会康复；\n配给页头像支持点击查看成员状态；\n修复部分成员过早脱水、死亡，以及缺水状态提示不准确的问题；\n修复手提包中同时携带多个单个装备的问题；\n修复探险出发时跳过已选配给和治疗的问题；\nPro、红米手表版部分房间的黄色圈调整至屏幕中央，避免与摇杆重叠"
+        }
+      ]
     },
     "xmrw5xring": {
       "version": "1.6",
-      "file_name": "downloads/rw_com.Dreamqiu.seconds.release.1.6.rpk"
+      "file_name": "downloads/rw_com.Dreamqiu.seconds.release.1.6-xmrw5xring.rpk",
+      "versionCode": 160,
+      "updatelogs": [
+        {
+          "version": "1.6",
+          "content": "1.6 新增食疗机制:连续给生病成员喂汤，有机会康复；\n配给页头像支持点击查看成员状态；\n修复部分成员过早脱水、死亡，以及缺水状态提示不准确的问题；\n修复手提包中同时携带多个单个装备的问题；\n修复探险出发时跳过已选配给和治疗的问题；\nPro、红米手表版部分房间的黄色圈调整至屏幕中央，避免与摇杆重叠"
+        }
+      ]
     },
     "xmrw6": {
       "version": "1.6",
-      "file_name": "downloads/rw_com.Dreamqiu.seconds.release.1.6.rpk"
+      "file_name": "downloads/rw_com.Dreamqiu.seconds.release.1.6-xmrw6.rpk",
+      "versionCode": 160,
+      "updatelogs": [
+        {
+          "version": "1.6",
+          "content": "1.6 新增食疗机制:连续给生病成员喂汤，有机会康复；\n配给页头像支持点击查看成员状态；\n修复部分成员过早脱水、死亡，以及缺水状态提示不准确的问题；\n修复手提包中同时携带多个单个装备的问题；\n修复探险出发时跳过已选配给和治疗的问题；\nPro、红米手表版部分房间的黄色圈调整至屏幕中央，避免与摇杆重叠"
+        }
+      ]
     },
     "xmb10": {
       "version": "1.6",
-      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.6.rpk"
+      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.6-xmb10.rpk",
+      "versionCode": 160,
+      "updatelogs": [
+        {
+          "version": "1.6",
+          "content": "1.6 新增食疗机制:连续给生病成员喂汤，有机会康复；\n配给页头像支持点击查看成员状态；\n修复部分成员过早脱水、死亡，以及缺水状态提示不准确的问题；\n修复手提包中同时携带多个单个装备的问题；\n修复探险出发时跳过已选配给和治疗的问题；\nPro、红米手表版部分房间的黄色圈调整至屏幕中央，避免与摇杆重叠"
+        }
+      ]
     },
     "xmb10nfc": {
       "version": "1.6",
-      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.6.rpk"
+      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.6-xmb10nfc.rpk",
+      "versionCode": 160,
+      "updatelogs": [
+        {
+          "version": "1.6",
+          "content": "1.6 新增食疗机制:连续给生病成员喂汤，有机会康复；\n配给页头像支持点击查看成员状态；\n修复部分成员过早脱水、死亡，以及缺水状态提示不准确的问题；\n修复手提包中同时携带多个单个装备的问题；\n修复探险出发时跳过已选配给和治疗的问题；\nPro、红米手表版部分房间的黄色圈调整至屏幕中央，避免与摇杆重叠"
+        }
+      ]
     },
     "xmb10p": {
       "version": "1.6",
-      "file_name": "downloads/pro_com.Dreamqiu.seconds.release.1.6.rpk"
+      "file_name": "downloads/pro_com.Dreamqiu.seconds.release.1.6-xmb10p.rpk",
+      "versionCode": 160,
+      "updatelogs": [
+        {
+          "version": "1.6",
+          "content": "1.6 新增食疗机制:连续给生病成员喂汤，有机会康复；\n配给页头像支持点击查看成员状态；\n修复部分成员过早脱水、死亡，以及缺水状态提示不准确的问题；\n修复手提包中同时携带多个单个装备的问题；\n修复探险出发时跳过已选配给和治疗的问题；\nPro、红米手表版部分房间的黄色圈调整至屏幕中央，避免与摇杆重叠"
+        }
+      ]
     },
     "xmb9p": {
       "version": "1.6",
-      "file_name": "downloads/pro_com.Dreamqiu.seconds.release.1.6.rpk"
+      "file_name": "downloads/pro_com.Dreamqiu.seconds.release.1.6-xmb9p.rpk",
+      "versionCode": 160,
+      "updatelogs": [
+        {
+          "version": "1.6",
+          "content": "1.6 新增食疗机制:连续给生病成员喂汤，有机会康复；\n配给页头像支持点击查看成员状态；\n修复部分成员过早脱水、死亡，以及缺水状态提示不准确的问题；\n修复手提包中同时携带多个单个装备的问题；\n修复探险出发时跳过已选配给和治疗的问题；\nPro、红米手表版部分房间的黄色圈调整至屏幕中央，避免与摇杆重叠"
+        }
+      ]
     },
     "xmb9": {
       "version": "1.6",
-      "file_name": "downloads/9_com.Dreamqiu.seconds.release.1.6.rpk"
+      "file_name": "downloads/9_com.Dreamqiu.seconds.release.1.6-xmb9.rpk",
+      "versionCode": 160,
+      "updatelogs": [
+        {
+          "version": "1.6",
+          "content": "1.6 新增食疗机制:连续给生病成员喂汤，有机会康复；\n配给页头像支持点击查看成员状态；\n修复部分成员过早脱水、死亡，以及缺水状态提示不准确的问题；\n修复手提包中同时携带多个单个装备的问题；\n修复探险出发时跳过已选配给和治疗的问题；\nPro、红米手表版部分房间的黄色圈调整至屏幕中央，避免与摇杆重叠"
+        }
+      ]
     },
     "xmb11": {
       "version": "1.6",
-      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.6.rpk"
+      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.6-xmb11.rpk",
+      "versionCode": 160,
+      "updatelogs": [
+        {
+          "version": "1.6",
+          "content": "1.6 新增食疗机制:连续给生病成员喂汤，有机会康复；\n配给页头像支持点击查看成员状态；\n修复部分成员过早脱水、死亡，以及缺水状态提示不准确的问题；\n修复手提包中同时携带多个单个装备的问题；\n修复探险出发时跳过已选配给和治疗的问题；\nPro、红米手表版部分房间的黄色圈调整至屏幕中央，避免与摇杆重叠"
+        }
+      ]
     },
     "xmb11nfc": {
       "version": "1.6",
-      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.6.rpk"
+      "file_name": "downloads/10_com.Dreamqiu.seconds.release.1.6-xmb11nfc.rpk",
+      "versionCode": 160,
+      "updatelogs": [
+        {
+          "version": "1.6",
+          "content": "1.6 新增食疗机制:连续给生病成员喂汤，有机会康复；\n配给页头像支持点击查看成员状态；\n修复部分成员过早脱水、死亡，以及缺水状态提示不准确的问题；\n修复手提包中同时携带多个单个装备的问题；\n修复探险出发时跳过已选配给和治疗的问题；\nPro、红米手表版部分房间的黄色圈调整至屏幕中央，避免与摇杆重叠"
+        }
+      ]
     },
     "vivowgt2": {
       "version": "1.5.1",
-      "file_name": "downloads/com.Dreamqiu.seconds.release.production.1.5.1.rpk"
+      "file_name": "downloads/com.Dreamqiu.seconds.release.production.1.5.1-vivowgt2.rpk",
+      "versionCode": 151
     }
   },
   "ext": {}
